@@ -1,4 +1,4 @@
 ﻿
 
-Hi this testing from gitbash ti github
+Hi this testing from gitbash to github
 
